@@ -3,6 +3,9 @@
 
 - 🌱 I’m currently learning **Assembly**
 
+- 🎮 Interested in game hacking
+
+
 - 👨‍💻 All of my projects are available at [https://asl.bio](https://asl.bio)
 
 - 📫 How to reach me **https://t.me/vxorg**
