@@ -8,6 +8,8 @@
 - 📫 How to reach me **https://t.me/vxorg**
 
 <h3 align="left">Connect with me:</h3>
+**https://t.me/vxorg**
+Discord : ostadvx
 <p align="left">
 </p>
 
