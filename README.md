@@ -3,8 +3,9 @@
 
 - 🌱 I’m currently learning **Assembly**
 
-- 🎮 Interested in game hacking
+- 🎮 Interested in game hacking and Memory Management
 
+- 💖 Experience with Dear ImGui
 
 - 👨‍💻 All of my projects are available at [https://asl.bio](https://asl.bio)
 
